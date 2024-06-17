@@ -164,8 +164,7 @@ export default function Login() {
                   )}
                 </button>
                 <p className="mt-3">
-                  Demo info: Email: sathishmech2k13@gmail.com|
-                  Password:Sathish1234
+                  
                 </p>
 
                 <div className="mt-2">
